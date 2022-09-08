@@ -1,5 +1,4 @@
 # tic_tac_toe
-
-First Flutter project.
+Simple XO Game with dart and flutter.
 
 
