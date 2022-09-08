@@ -1,2 +1,2 @@
 # XO-Game
-Simple XO Game with dart and flutter.
+Simple XO Game with Dart and Flutter.
